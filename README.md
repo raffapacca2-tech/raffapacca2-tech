@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Olá, eu sou Rafael Paccagnella!
 
-<!--
-**raffapacca2-tech/raffapacca2-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante da ETEC Abdias do Nascimento  
+💻 Cursando Desenvolvimento de Sistemas  
+🎂 16 anos  
+📚 Atualmente aprendendo Python, HTML, CSS e C++  
+🚀 Apaixonado por tecnologia, programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚙️ C++
+
+## 🎯 Objetivos
+
+Busco aprimorar minhas habilidades em programação, desenvolver projetos práticos e evoluir constantemente como desenvolvedor.
+
+📫 Sempre aberto a aprender novas tecnologias e compartilhar conhecimento!
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=raffapacca2-tech&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=raffapacca2-tech&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=raffapacca2-tech&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=raffapacca2-tech&langs_count=4&theme=dark)
