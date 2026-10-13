@@ -4,7 +4,7 @@
 💻 Cursando Desenvolvimento de Sistemas  
 🎂 16 anos  
 📚 Atualmente aprendendo Python, HTML, CSS e C++  
-🚀 Apaixonado por tecnologia, programação e desenvolvimento de software.
+
 
 ## 🛠️ Tecnologias que estou aprendendo
 
